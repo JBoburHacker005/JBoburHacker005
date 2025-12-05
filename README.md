@@ -8,7 +8,9 @@
 💻 **Profession:** Hacker  
 🎯 **Goal:** Studying Hack  
 🎓 **I knew this programming:** Python, HTML, CSS, Web Development, Cybersecurity   
--=.    =%*.                                             
+                                          
+                                                                            
+                                            -=.    =%*.                                             
                                           -=      =@@@#:                                            
                                          .:       *#@@@@#-                                          
                                          -+  -%#@#@@@@@@@#-                                         
@@ -30,6 +32,8 @@
                                                :###:                  .+.*                          
                                       -                                                             
                                       =                                                             
+                                                                                                    
+                                                                                                                           
                                                                               
 ## 🚀 Technologies & Skills
 
